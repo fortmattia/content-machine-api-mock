@@ -1,3 +1,34 @@
-{
-    "title": "Sample Dataset"
-}
+[
+    {
+        "id": "a32f4b8e-1c2d-4a3b-9f5c-7e8d1f2a3b4c",
+        "data": {
+            "it":  {
+                "title": "Il Grande Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "description": "Un romanzo che esplora il sogno americano attraverso la vita di Jay Gatsby e la sua ossessione per Daisy Buchanan."
+            },
+            "en": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "description": "A novel that explores the American dream through the life of Jay Gatsby and his obsession with Daisy Buchanan."
+            }
+        },
+        "order": 0
+    },
+    {
+        "id": "b45f6c7d-2e3f-4a5b-8c9d-0e1f2a3b4c5d",
+        "data": {
+            "it":  {
+                "title": "1984",
+                "author": "George Orwell",
+                "description": "Un romanzo distopico che esplora i temi del totalitarismo, della sorveglianza e della manipolazione della verità."
+            },
+            "en": {
+                "title": "1984",
+                "author": "George Orwell",
+                "description": "A dystopian novel that explores themes of totalitarianism, surveillance, and the manipulation of truth."
+            }
+        },
+        "order": 1
+    }
+]

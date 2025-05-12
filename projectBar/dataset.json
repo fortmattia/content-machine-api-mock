@@ -1,0 +1,34 @@
+[
+    {
+        "id": "a32f4b8e-1c2d-4a3b-9f5c-45d1f2a3b4c",
+        "data": {
+            "it":  {
+                "title": "Un giorno di questi giorni",
+                "author": "Giorgio Faletti",
+                "description": "Un romanzo che racconta la vita di un uomo che si ritrova coinvolto in una serie di eventi misteriosi e inquietanti."
+            },
+            "en": {
+                "title": "One of These Days",
+                "author": "Giorgio Faletti",
+                "description": "A novel that tells the story"
+            }
+        },
+        "order": 0
+    },
+    {
+        "id": "b45f6c7d-2e3f-4a5b-8c9d-0e1f2a3b4c5d",
+        "data": {
+            "it":  {
+                "title": "Il nome della rosa",
+                "author": "Umberto Eco",
+                "description": "Un romanzo giallo ambientato in un monastero medievale, che esplora temi di fede, conoscenza e verità."
+            },
+            "en": {
+                "title": "The Name of the Rose",
+                "author": "Umberto Eco",
+                "description": "A mystery novel set in a medieval monastery, exploring themes of faith, knowledge, and truth."
+            }
+        },
+        "order": 1
+    }
+]
