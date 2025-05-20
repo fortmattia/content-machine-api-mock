@@ -5,12 +5,16 @@
             "it":  {
                 "title": "Il Grande Gatsby",
                 "author": "F. Scott Fitzgerald",
-                "description": "Un romanzo che esplora il sogno americano attraverso la vita di Jay Gatsby e la sua ossessione per Daisy Buchanan."
+                "description": "Un romanzo che esplora il sogno americano attraverso la vita di Jay Gatsby e la sua ossessione per Daisy Buchanan.",
+                "category": "homepage",
+                "template": "post"
             },
             "en": {
                 "title": "The Great Gatsby",
                 "author": "F. Scott Fitzgerald",
-                "description": "A novel that explores the American dream through the life of Jay Gatsby and his obsession with Daisy Buchanan."
+                "description": "A novel that explores the American dream through the life of Jay Gatsby and his obsession with Daisy Buchanan.",
+                "category": "homepage",
+                "template": "post"
             }
         },
         "order": 0
@@ -21,12 +25,16 @@
             "it":  {
                 "title": "1984",
                 "author": "George Orwell",
-                "description": "Un romanzo distopico che esplora i temi del totalitarismo, della sorveglianza e della manipolazione della verità."
+                "description": "Un romanzo distopico che esplora i temi del totalitarismo, della sorveglianza e della manipolazione della verità.",
+                "category": "homepage",
+                "template": "post"
             },
             "en": {
                 "title": "1984",
                 "author": "George Orwell",
-                "description": "A dystopian novel that explores themes of totalitarianism, surveillance, and the manipulation of truth."
+                "description": "A dystopian novel that explores themes of totalitarianism, surveillance, and the manipulation of truth.",
+                "category": "homepage",
+                "template": "post"
             }
         },
         "order": 1
