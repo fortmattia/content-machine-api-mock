@@ -5,7 +5,7 @@
             "it":  {
                 "title": "Un giorno di questi giorni",
                 "author": "Giorgio Faletti",
-                "description": "Un romanzo che racconta la vita di un uomo che si ritrova coinvolto in una serie di eventi misteriosi e inquietanti.",
+                "description": "Un romanzo che racconta la vita di un uomo che si ritrova coinvolto in una serie di eventi <b>misteriosi e inquietanti</b>.",
                 "category": "homepage",
                 "template": "post"
             },

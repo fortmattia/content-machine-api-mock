@@ -5,14 +5,14 @@
             "it":  {
                 "title": "Il Grande Gatsby",
                 "author": "F. Scott Fitzgerald",
-                "description": "Un romanzo che esplora il sogno americano attraverso la vita di Jay Gatsby e la sua ossessione per Daisy Buchanan.",
+                "description": "Un romanzo che esplora il sogno americano attraverso la vita di Jay Gatsby e la sua ossessione per <b>Daisy Buchanan</b>.",
                 "category": "homepage",
                 "template": "post"
             },
             "en": {
                 "title": "The Great Gatsby",
                 "author": "F. Scott Fitzgerald",
-                "description": "A novel that explores the American dream through the life of Jay Gatsby and his obsession with Daisy Buchanan.",
+                "description": "A novel that explores the American dream through the life of Jay Gatsby and his obsession with <b>Daisy Buchanan</b>.",
                 "category": "homepage",
                 "template": "post"
             }
