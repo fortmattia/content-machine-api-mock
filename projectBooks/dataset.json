@@ -1,0 +1,46 @@
+[
+    {
+        "id": "a32f4b8e-1c2d-4a3b-9f5c-45d1f2a3b4c",
+        "data": {
+            "it": {
+                "title": "Il piccolo principe",
+                "author": "Antoine de Saint-Exupéry",
+                "description": "Un racconto poetico e filosofico che narra le avventure di un giovane principe in vari pianeti.",
+                "type": "fantasy",
+                "category": "books",
+                "template": "book"
+            },
+            "en": {
+                "title": "The Little Prince",
+                "author": "Antoine de Saint-Exupéry",
+                "description": "A poetic and philosophical tale about the adventures of a young prince across various planets.",
+                "type": "fantasy",
+                "category": "books",
+                "template": "book"
+            }
+        },
+        "order": 0
+    },
+    {
+        "id": "b45f6c7d-2e3f-4a5b-8c9d-0e1f2a3b4c5d",
+        "data": {
+            "it":  {
+                "title": "Il nome della rosa",
+                "author": "Umberto Eco",
+                "description": "Un romanzo giallo ambientato in un monastero medievale, che esplora temi di fede, conoscenza e verità.",
+                "type": "mystery",
+                "category": "books",
+                "template": "book"
+            },
+            "en": {
+                "title": "The Name of the Rose",
+                "author": "Umberto Eco",
+                "description": "A mystery novel set in a medieval monastery, exploring themes of faith, knowledge, and truth.",
+                "type": "mystery",
+                "category": "books",
+                "template": "book"
+            }
+        },
+        "order": 1
+    }
+]
