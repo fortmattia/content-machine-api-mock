@@ -5,7 +5,7 @@
             "it": {
                 "title": "Alien",
                 "director": "Ridley Scott",
-                "description": "Un film di fantascienza horror che segue l'equipaggio di un'astronave mentre affronta una creatura aliena mortale.",
+                "description": "Un film di <b>fantascienza horror</b> che segue l'equipaggio di un'astronave mentre affronta una creatura aliena mortale.",
                 "category": "movies",
                 "template": "movie"
             },
@@ -25,7 +25,7 @@
             "it": {
                 "title": "Inception",
                 "director": "Christopher Nolan",
-                "description": "Un thriller psicologico che esplora il mondo dei sogni e della manipolazione della mente.",
+                "description": "Un <b>thriller psicologico</b> che esplora il mondo dei sogni e della manipolazione della mente.",
                 "category": "movies",
                 "template": "movie"
             },
