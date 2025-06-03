@@ -5,7 +5,7 @@
             "it": {
                 "title": "Il piccolo principe",
                 "author": "Antoine de Saint-Exupéry",
-                "description": "Un racconto <b>poetico e filosofico</b> che narra le avventure di un giovane principe in vari pianeti.",
+                "description": "Un racconto <strong>poetico e filosofico</strong> che narra le avventure di un giovane principe in vari pianeti.",
                 "cover": "https://dummyimage.com/500x300/aaa/333.png",
                 "type": "fantasy",
                 "category": "books",
@@ -14,7 +14,7 @@
             "en": {
                 "title": "The Little Prince",
                 "author": "Antoine de Saint-Exupéry",
-                "description": "A <b>poetic and philosophical</b> tale about the adventures of a young prince across various planets.",
+                "description": "A <strong>poetic and philosophical</strong> tale about the adventures of a young prince across various planets.",
                 "cover": "https://dummyimage.com/500x300/aaa/333.png",
                 "type": "fantasy",
                 "category": "books",
