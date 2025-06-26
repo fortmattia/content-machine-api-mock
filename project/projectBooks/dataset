@@ -8,7 +8,7 @@
                 "description": "Un racconto <em>poetico e filosofico</em> che narra le avventure di un giovane principe in vari pianeti.",
                 "cover": "https://dummyimage.com/500x300/aaa/333.png",
                 "type": "fantasy",
-                "archived": "true",
+                "archived": "1",
                 "category": "books",
                 "template": "book"
             },
@@ -32,7 +32,7 @@
                 "author": "Umberto Eco",
                 "description": "Un romanzo giallo ambientato in un monastero medievale, che esplora temi di fede, conoscenza e verità.",
                 "cover": "https://dummyimage.com/500x300/333/aaa.png",
-                "archived": "false",
+                "archived": "0",
                 "type": "mystery",
                 "category": "books",
                 "template": "book"

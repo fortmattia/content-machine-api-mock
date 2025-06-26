@@ -6,7 +6,7 @@
                 "title": "Alien",
                 "director": "Ridley Scott",
                 "description": "Un film di <b>fantascienza horror</b> che segue l'equipaggio di un'astronave mentre affronta una creatura aliena mortale.",
-                "archived": "true",
+                "archived": "1",
                 "category": "movies",
                 "template": "movie"
             },
