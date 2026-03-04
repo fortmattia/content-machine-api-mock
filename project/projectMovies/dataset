@@ -3,7 +3,6 @@
         "id": "a32f4b8e-1c2d-4a3b-9f5c-7e8d1f2a3b4c",
         "data": {
             "it": {
-                "$generatedAt": "2026-01-01T00:00:00.000Z",
                 "title": "Alien",
                 "director": "Ridley Scott",
                 "description": "Un film di <b>fantascienza horror</b> che segue l'equipaggio di un'astronave mentre affronta una creatura aliena mortale.",
@@ -13,7 +12,6 @@
                 "template": "movie"
             },
             "en": {
-                "$generatedAt": "2026-01-01T00:00:00.000Z",
                 "title": "Alien",
                 "director": "",
                 "description": "",
@@ -27,7 +25,6 @@
         "id": "b45f6c7d-2e3f-4a5b-8c9d-0e1f2a3b4c5d",
         "data": {
             "it": {
-                "$generatedAt": "2026-01-01T00:00:00.000Z",
                 "title": "Inception",
                 "director": "Christopher Nolan",
                 "description": "Un <b>thriller psicologico</b> che esplora il mondo dei sogni e della manipolazione della mente.",
@@ -37,7 +34,6 @@
                 "template": "movie"
             },
             "en": {
-                "$generatedAt": "2026-01-01T00:00:00.000Z",
                 "title": "Inception",
                 "director": "",
                 "description": "",
